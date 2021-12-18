@@ -36,7 +36,7 @@ public class DemoblazeDesktop extends DemoblazePage {
     //public static String file_location = System.getProperty("user.dir")+"\\src\\main\\java\\com\\productconfigurator\\Util\\OPFDetails.xlsx";
     static String SheetName= "demoblaze mobile";
     DemoblazePage dbz;
-   // dec 18 2021
+   // dec 18 2022
 	@BeforeMethod
 	public void getscreen()
 	{
